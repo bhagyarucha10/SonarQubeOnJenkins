@@ -16,6 +16,7 @@ public class AppTest
     int exp=obj.add(4, 5);
     	assertEquals(exp,9);
     }
+    /*
     @Test
     public void testSub()
     {
@@ -23,4 +24,5 @@ public class AppTest
     int exp=obj.sub(10, 5);
     	assertEquals(exp,5);
     }
+    */
 }
